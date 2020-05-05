@@ -1,4 +1,4 @@
-# francis_script
+# responder_script
 Message Responder in Ruby that responds as follows:
 * Answers 'Sure.' if you ask a question
 * Answers 'Chill!' if you yell at it using all capital letters
